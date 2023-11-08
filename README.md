@@ -14,7 +14,7 @@ The Mouse Follower app is a fun interactive tool that tracks the movement of the
 
 
 ## Usage
-1. Open the Mouse Follower app in your web browser from [www.mousefollowerapp.com](https://www.mousefollowerapp.com).
+1. Open the Mouse Follower app in your web browser from [mouse-follower](https://mouse-follower-gabino2395.netlify.app/).
 
 ## Contributions
 If you want to contribute to the Mouse Follower app or have ideas to enhance it, feel free to contact the developer through the email address provided on the website.
